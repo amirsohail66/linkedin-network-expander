@@ -23,7 +23,7 @@ The purpose of this script is to demonstrate how browser automation can be appli
 2. Open LinkedIn in your web browser and log in
 3. Navigate to the search results page for the people you want to connect with
 4. Open your browser's developer console
-5. Copy the entire content of `index.js`
+5. Copy the entire content of `index.js` for sending request for with note seding, and `index1.js` for sending request without a note
 6. Paste the script into the console and press Enter to run it
 
 ## Configuration
